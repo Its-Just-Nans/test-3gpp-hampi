@@ -1,6 +1,7 @@
-output.asn1
-
-
 # Added by cargo
+/target/
 
-/target
+*.docx
+code.rs
+
+output.asn1
